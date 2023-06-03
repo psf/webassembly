@@ -9,4 +9,30 @@ given that this will likely be a multi-year effort.
 
 ## Links
 
+### Communication
+
 - [WebAssembly Category on the Python Discourse](https://discuss.python.org/c/webassembly/28)
+- [#Python channel on the WebAssembly Discord server](https://discord.com/channels/453584038356058112/915046161126137856)
+
+### Information
+
+- [Blog post on WebAssembly platform triples](https://snarky.ca/webassembly-and-its-platform-targets/)
+
+### Running/Using
+
+- [Instructions for building CPython for WebAssembly](https://github.com/python/cpython/blob/main/Tools/wasm/README.md)
+
+#### WASI
+
+- [Blog post on running pytest with WASI](https://snarky.ca/testing-a-project-using-the-wasi-build-of-cpython-with-pytest/)
+
+##### Builds
+
+- [CPython from Brett Cannon](https://github.com/brettcannon/cpython-wasi-build) (to experiment with what might eventually come from python.org)
+- [CPython from VMWare](https://github.com/vmware-labs/webassembly-language-runtimes)
+
+#### Browser
+
+##### Builds
+
+- [CPython from Pyodide](https://pyodide.org/)
