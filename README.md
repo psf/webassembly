@@ -17,6 +17,7 @@ given that this will likely be a multi-year effort.
 ### Information
 
 - [Blog post on WebAssembly platform triples](https://snarky.ca/webassembly-and-its-platform-targets/)
+- [Blog post on State of WASI support for CPython: June 2023](https://snarky.ca/wasi-support-for-cpython-june-2023/)
 
 ### Running/Using
 
