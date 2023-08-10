@@ -58,3 +58,9 @@ It was agreed we should do this again, and soon, in a similar format.
 The WASM EuroPython class of '23.
 
 ![The WASM EuroPython class of '23](wasm_europython2023.jpeg "The WASM EuroPython class of '23")
+
+## Post Event Buzz
+
+The summit was discussed at some length in the following episode of PyScriptTV:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPXCEC1OoMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
