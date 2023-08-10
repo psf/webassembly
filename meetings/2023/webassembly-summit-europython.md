@@ -30,7 +30,7 @@ during the presentation of the subject matter.
 ## Packaging debate
 
 The main focus for discussion in the afternoon was packaging in the context of
-web assembly. The TL;DR is something we've named the Lemburg Paradox (named
+WebAssembly. The TL;DR is something we've named the Lemburg Paradox (named
 after Marc-Andre Lemburg who coined the concept):
 
 > "The only conclusion we can reach when it comes to Python packaging, is that
@@ -52,3 +52,9 @@ meet, share ideas and learn something of the emergent geography of the
 WASM/packaging community.
 
 It was agreed we should do this again, and soon, in a similar format.
+
+## Photos
+
+The WASM EuroPython class of '23.
+
+![The WASM EuroPython class of '23](wasm_europython2023.jpeg "The WASM EuroPython class of '23")
