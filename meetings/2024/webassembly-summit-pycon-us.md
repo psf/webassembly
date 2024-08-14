@@ -14,7 +14,7 @@ Organisers:
 
 * Pyodide (Dr. Hood Chatham) - An update on the current state of Pyodide (CPython compiled to WASM) by Hood, a core maintainer of the project.
     * [Blog post with updates](https://blog.pyodide.org/posts/0.26-release/)
-* MicroPython (Dr.Damien George) - A pre-recorded video updating us on the current state of MicroPython compiled to web assembly.
+* MicroPython (Dr. Damien George) - A pre-recorded video updating us on the current state of MicroPython compiled to web assembly.
     * [Unlisted YouTube version](https://youtu.be/6icY5Pq3NOM)
 * WASI and Python (Eric Snow/Dawn Wages/Mike Droettboom) - An outline of the current state of WASI (WebAssembly System Interface) support in CPython.
     * [Tier 2 support is here](https://discuss.python.org/t/wasi-has-been-promoted-to-a-tier-2-platform/45525)
