@@ -20,7 +20,7 @@ Organisers:
     * [Tier 2 support is here](https://discuss.python.org/t/wasi-has-been-promoted-to-a-tier-2-platform/45525)
 * PyScript (Fabio Pliger) - Updates, developments, future plans in the world of PyScript (a platform for Python in the browser).
     * [PyScript homepage](https://pyscript.net)
-* PySheets / LTK (Dr.Chris Laffra) - a demonstration and description of PySheets - a spreadsheet UI for notebook like coding, written with PyScript.
+* PySheets / LTK (Dr. Chris Laffra) - a demonstration and description of PySheets - a spreadsheet UI for notebook like coding, written with PyScript.
     * [LTK](https://github.com/pyscript/ltk)
     * [PySheets](https://pysheets.app/)
 * Using Web Assembly to Teach Code Generation in an Undergraduate Compiler Design Course (Ariel Ortiz) - With the Arpeggio and wasmtime Python packages it is possible to use a vertical slice approach in order to teach how to build incrementally a fully working compiler in just under 16 hrs. The language being compiled supports only one data type (32 bit integer), arithmetic, relational, and logic operators, variables, and also conditional and loop statements. The target language is the WebAssembly text format.
