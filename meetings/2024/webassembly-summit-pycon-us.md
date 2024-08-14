@@ -4,7 +4,7 @@
 
 Organisers:
 
-* Dr.Brett Cannon - Microsoft
+* Dr. Brett Cannon - Microsoft
 * Fabio Pliger - Anaconda
 * Nicholas Tollervey - Anaconda
 
