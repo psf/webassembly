@@ -4,7 +4,7 @@ Held in Prague. Event website here: https://ep2024.europython.eu/session/webasse
 
 We had around 15 sign up, and several more turn up on the day.
 
-As last yeat, the morning consisted of presentations, with a discussion
+As with last year, the morning consisted of presentations, with a discussion
 scheduled for the afternoon.
 
 ## Presentations
