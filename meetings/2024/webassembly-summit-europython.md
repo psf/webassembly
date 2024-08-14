@@ -42,7 +42,7 @@ The following topics were discussed (taken from notes provided by Chris Laffra):
 * Pyodide focused:
     * Reducing the footprint, compression - do like Pyrun (remove stuff, compress).
     * Reducing startup time:
-        * We need to improve packages to download all dependencies at once, rather than one wheel at a time.
+        * We need to improve packages to download all dependencies at once, rather than one wheel at a time. [Previous online context/discussion](https://github.com/pyodide/pyodide/issues/2045#issuecomment-1423248534).
         * We should parallelize startup and package downloads.
         * Cache entire file-system as a snapshot with all packages pre-installed (an idea from Nicholas).
         * Related: memory snapshots.
